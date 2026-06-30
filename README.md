@@ -1,5 +1,11 @@
 ## Olá, eu sou o Lucas
-Desenvolvedor Full Stack apaixonado por criar interfaces modernas e que resolvam problemas reais, conhecimento adicional em Analise de dados Power BI, Marketing e Tráfego.
+Seja bem-vindo (a)
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, com conhecimento prático em HTML, CSS e JavaScript, trabalhando na construção de páginas web. Estou aprofundando na linguagem React e TypeScript, integrando com Back-End e Dados, focando em criar sistemas que resolvam problemas reais. 
+
+Com mentalidade Full Stack, busco sempre usar em meus projetos criatividade, lógica e pensar na experiência do usuário do início ao deploy.
+
+Aberto a networking e novos desafios.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
