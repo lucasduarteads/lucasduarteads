@@ -1,5 +1,4 @@
 ## Olá, eu sou o Lucas
-Seja bem-vindo (a)
 
 Desenvolvedor Fullstack em formação, com experiência prática na criação de websites, landing pages e aplicações interativas utilizando HTML5, CSS3, JavaScript e React. Atualmente aprofundando conhecimentos em TypeScript e integração de APIs REST, com projetos autorais que envolvem front-end, back-end e bancos de dados relacionais e não-relacionais. Utilizo IA como ferramenta de produtividade no fluxo de desenvolvimento. Perfil analítico, autônomo e com forte capacidade de aprendizado contínuo.
 
