@@ -1,9 +1,7 @@
 ## Olá, eu sou o Lucas
 Seja bem-vindo (a)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com conhecimento prático em HTML, CSS e JavaScript, trabalhando na construção de páginas web. Estou aprofundando na linguagem React e TypeScript, integrando com Back-End e Dados, focando em criar sistemas que resolvam problemas reais. 
-
-Com mentalidade Full Stack, busco sempre usar em meus projetos criatividade, lógica e pensar na experiência do usuário do início ao deploy.
+Desenvolvedor Fullstack em formação, com experiência prática na criação de websites, landing pages e aplicações interativas utilizando HTML5, CSS3, JavaScript e React. Atualmente aprofundando conhecimentos em TypeScript e integração de APIs REST, com projetos autorais que envolvem front-end, back-end e bancos de dados relacionais e não-relacionais. Utilizo IA como ferramenta de produtividade no fluxo de desenvolvimento. Perfil analítico, autônomo e com forte capacidade de aprendizado contínuo.
 
 Aberto a networking e novos desafios.
 
@@ -21,4 +19,5 @@ Aberto a networking e novos desafios.
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
 
